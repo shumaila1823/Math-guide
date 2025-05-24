@@ -1,2 +1,2 @@
 # Math-guide
-my version
+my  CLASSFELLOW version
