@@ -1,2 +1,3 @@
 # Math-guide
-my fellow version
+my  CLASSFELLOW version
+
